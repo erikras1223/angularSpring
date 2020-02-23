@@ -9,4 +9,4 @@
 
 rootProject.name = 'AngularSpring'
 
-include 'client', 'src'
+include 'client', 'backend'
